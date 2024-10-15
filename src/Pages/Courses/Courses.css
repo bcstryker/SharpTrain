@@ -1,0 +1,33 @@
+.courses-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.course-list {
+  margin-top: 20px;
+}
+
+.course-list h3 {
+  margin-top: 20px;
+  font-size: 1.8rem;
+}
+
+.course-list p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
